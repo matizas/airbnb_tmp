@@ -1,0 +1,40 @@
+{
+    "User.a3e5b38a-f5e7-4ddf-a8dd-615a28419195": {
+        "id": "a3e5b38a-f5e7-4ddf-a8dd-615a28419195",
+        "created_at": "2023-02-12T07:26:03.519568",
+        "updated_at": "2023-02-12T07:26:03.519568",
+        "__class__": "User"
+    },
+    "Review.76fa637c-723f-4d94-a73e-34018379eef7": {
+        "id": "76fa637c-723f-4d94-a73e-34018379eef7",
+        "created_at": "2023-02-12T07:31:00.124972",
+        "updated_at": "2023-02-12T07:31:00.124972",
+        "__class__": "Review"
+    },
+    "Amenity.ef15f3a2-9111-4429-9a24-22a2de9a1d72": {
+        "id": "ef15f3a2-9111-4429-9a24-22a2de9a1d72",
+        "created_at": "2023-02-12T07:34:12.587857",
+        "updated_at": "2023-02-12T07:34:12.587857",
+        "__class__": "Amenity"
+    },
+    "State.ccec4e1e-36f8-4a15-828d-7dae26429af6": {
+        "id": "ccec4e1e-36f8-4a15-828d-7dae26429af6",
+        "created_at": "2023-02-12T12:22:31.459604",
+        "updated_at": "2023-02-12T12:22:31.459604",
+        "name": "Mark",
+        "age": 30,
+        "__class__": "State"
+    },
+    "State.a618f91b-0a7e-4f32-8d09-3d727c01bb98": {
+        "id": "a618f91b-0a7e-4f32-8d09-3d727c01bb98",
+        "created_at": "2023-02-12T12:22:48.247105",
+        "updated_at": "2023-02-12T12:22:48.247105",
+        "__class__": "State"
+    },
+    "User.e5d6f174-5087-4c9f-bcac-9509e94a3aa0": {
+        "id": "e5d6f174-5087-4c9f-bcac-9509e94a3aa0",
+        "created_at": "2023-02-12T13:00:36.057467",
+        "updated_at": "2023-02-12T13:00:36.057467",
+        "__class__": "User"
+    }
+}
